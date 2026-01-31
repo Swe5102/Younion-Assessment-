@@ -1,0 +1,642 @@
+[
+  {
+    "activity_id": 5001,
+    "email": "rahul.reddy41@example.com",
+    "owner": "Kunal",
+    "stage": "Lost",
+    "last_activity_date": "2025-12-11",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5002,
+    "email": "vikram.gupta51@example.com",
+    "owner": "Aarav",
+    "stage": "New",
+    "last_activity_date": "2025/03/08",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5003,
+    "email": "",
+    "owner": "Kunal",
+    "stage": "Opportunity",
+    "last_activity_date": "2025/06/16",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5004,
+    "email": "rahul.gupta2@example.com",
+    "owner": "Rakesh",
+    "stage": "MQL",
+    "last_activity_date": "2025-08-26",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5005,
+    "email": "karthik.gupta20@example.com",
+    "owner": "Rakesh",
+    "stage": "Lost",
+    "last_activity_date": "2025/05/20",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5006,
+    "email": "vikram.nair33@example.com",
+    "owner": "Kunal",
+    "stage": "Lost",
+    "last_activity_date": "2025/12/25",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5007,
+    "email": "ananya.nair47@example.com",
+    "owner": "Aarav",
+    "stage": "SQL",
+    "last_activity_date": "25-07-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5008,
+    "email": "",
+    "owner": "Aarav",
+    "stage": "SQL",
+    "last_activity_date": "2025/12/09",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5009,
+    "email": "",
+    "owner": "Aarav",
+    "stage": "MQL",
+    "last_activity_date": "11-01-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5010,
+    "email": "",
+    "owner": "Aarav",
+    "stage": "SQL",
+    "last_activity_date": "2025/09/23",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5011,
+    "email": "amit.verma34@example.com",
+    "owner": "Rakesh",
+    "stage": "Won",
+    "last_activity_date": "10-04-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5012,
+    "email": "",
+    "owner": "Rakesh",
+    "stage": "MQL",
+    "last_activity_date": "2025/04/19",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5013,
+    "email": "",
+    "owner": "Sneha",
+    "stage": "MQL",
+    "last_activity_date": "12-07-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5014,
+    "email": "",
+    "owner": "Sneha",
+    "stage": "SQL",
+    "last_activity_date": "2025-05-29",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5015,
+    "email": "swetha.nair19@example.com",
+    "owner": "Meera",
+    "stage": "MQL",
+    "last_activity_date": "28-12-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5016,
+    "email": "neha.patel12@example.com",
+    "owner": "Rakesh",
+    "stage": "New",
+    "last_activity_date": "20-04-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5017,
+    "email": "ananya.mehta53@example.com",
+    "owner": "Aarav",
+    "stage": "New",
+    "last_activity_date": "2025-03-14",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5018,
+    "email": "neha.iyer8@example.com",
+    "owner": "Rakesh",
+    "stage": "Lost",
+    "last_activity_date": "2026/01/29",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5019,
+    "email": "",
+    "owner": "Rakesh",
+    "stage": "Won",
+    "last_activity_date": "2025-10-14",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5020,
+    "email": "ananya.reddy15@example.com",
+    "owner": "Rakesh",
+    "stage": "Won",
+    "last_activity_date": "08-06-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5021,
+    "email": "priya.verma21@example.com",
+    "owner": "Kunal",
+    "stage": "New",
+    "last_activity_date": "2025/02/27",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5022,
+    "email": "karthik.mehta4@example.com",
+    "owner": "Meera",
+    "stage": "Opportunity",
+    "last_activity_date": "2025-09-23",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5023,
+    "email": "pooja.singh14@example.com",
+    "owner": "Rakesh",
+    "stage": "Won",
+    "last_activity_date": "2025-01-09",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5024,
+    "email": "rohit.gupta40@example.com",
+    "owner": "Sneha",
+    "stage": "SQL",
+    "last_activity_date": "2025-03-23",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5025,
+    "email": "neha.patel38@example.com",
+    "owner": "Kunal",
+    "stage": "Lost",
+    "last_activity_date": "2025-12-16",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5026,
+    "email": "rohit.sharma42@example.com",
+    "owner": "Meera",
+    "stage": "New",
+    "last_activity_date": "2025-06-09",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5027,
+    "email": "rahul.gupta2@example.com",
+    "owner": "Aarav",
+    "stage": "MQL",
+    "last_activity_date": "2026-01-02",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5028,
+    "email": "ananya.mehta9@example.com",
+    "owner": "Aarav",
+    "stage": "Lost",
+    "last_activity_date": "13-09-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5029,
+    "email": "rahul.singh7@example.com",
+    "owner": "Sneha",
+    "stage": "New",
+    "last_activity_date": "21-03-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5030,
+    "email": "rahul.gupta25@example.com",
+    "owner": "Sneha",
+    "stage": "Lost",
+    "last_activity_date": "2025-03-05",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5031,
+    "email": "rahul.sharma28@example.com",
+    "owner": "Rakesh",
+    "stage": "New",
+    "last_activity_date": "20-03-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5032,
+    "email": "karthik.gupta20@example.com",
+    "owner": "Meera",
+    "stage": "Lost",
+    "last_activity_date": "2025/06/07",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5033,
+    "email": "rahul.reddy41@example.com",
+    "owner": "Meera",
+    "stage": "Won",
+    "last_activity_date": "2025-05-24",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5034,
+    "email": "rohit.sharma11@example.com",
+    "owner": "Meera",
+    "stage": "MQL",
+    "last_activity_date": "2025/03/27",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5035,
+    "email": "neha.verma57@example.com",
+    "owner": "Aarav",
+    "stage": "Won",
+    "last_activity_date": "2025-04-24",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5036,
+    "email": "priya.sharma13@example.com",
+    "owner": "Aarav",
+    "stage": "SQL",
+    "last_activity_date": "2025/11/02",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5037,
+    "email": "",
+    "owner": "Aarav",
+    "stage": "SQL",
+    "last_activity_date": "18-02-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5038,
+    "email": "pooja.nair44@example.com",
+    "owner": "Sneha",
+    "stage": "SQL",
+    "last_activity_date": "2025-12-11",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5039,
+    "email": "pooja.singh14@example.com",
+    "owner": "Kunal",
+    "stage": "Lost",
+    "last_activity_date": "2025/06/20",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5040,
+    "email": "rohit.nair60@example.com",
+    "owner": "Kunal",
+    "stage": "New",
+    "last_activity_date": "04-10-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5041,
+    "email": "karthik.gupta20@example.com",
+    "owner": "Aarav",
+    "stage": "Lost",
+    "last_activity_date": "2025/10/18",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5042,
+    "email": "ananya.nair47@example.com",
+    "owner": "Rakesh",
+    "stage": "New",
+    "last_activity_date": "2025-11-17",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5043,
+    "email": "ananya.reddy15@example.com",
+    "owner": "Rakesh",
+    "stage": "Won",
+    "last_activity_date": "2025-09-05",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5044,
+    "email": "",
+    "owner": "Meera",
+    "stage": "SQL",
+    "last_activity_date": "02-02-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5045,
+    "email": "rohit.gupta40@example.com",
+    "owner": "Meera",
+    "stage": "Won",
+    "last_activity_date": "04-06-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5046,
+    "email": "rahul.reddy41@example.com",
+    "owner": "Aarav",
+    "stage": "MQL",
+    "last_activity_date": "17-09-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5047,
+    "email": "rahul.gupta2@example.com",
+    "owner": "Kunal",
+    "stage": "MQL",
+    "last_activity_date": "2025-12-07",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5048,
+    "email": "karthik.gupta20@example.com",
+    "owner": "Aarav",
+    "stage": "New",
+    "last_activity_date": "02-03-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5049,
+    "email": "neha.patel38@example.com",
+    "owner": "Rakesh",
+    "stage": "Lost",
+    "last_activity_date": "2025/04/04",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5050,
+    "email": "karthik.mehta4@example.com",
+    "owner": "Sneha",
+    "stage": "Lost",
+    "last_activity_date": "2025/07/05",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5051,
+    "email": "pooja.singh14@example.com",
+    "owner": "Aarav",
+    "stage": "Won",
+    "last_activity_date": "11-05-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5052,
+    "email": "karthik.mehta4@example.com",
+    "owner": "Sneha",
+    "stage": "MQL",
+    "last_activity_date": "2026-01-06",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5053,
+    "email": "neha.singh6@example.com",
+    "owner": "Meera",
+    "stage": "SQL",
+    "last_activity_date": "07-11-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5054,
+    "email": "",
+    "owner": "Rakesh",
+    "stage": "Opportunity",
+    "last_activity_date": "2025-06-22",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5055,
+    "email": "karthik.gupta20@example.com",
+    "owner": "Sneha",
+    "stage": "Won",
+    "last_activity_date": "22-08-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5056,
+    "email": "",
+    "owner": "Kunal",
+    "stage": "Opportunity",
+    "last_activity_date": "2025-08-03",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5057,
+    "email": "amit.reddy36@example.com",
+    "owner": "Rakesh",
+    "stage": "SQL",
+    "last_activity_date": "2025-04-11",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5058,
+    "email": "priya.singh52@example.com",
+    "owner": "Meera",
+    "stage": "Won",
+    "last_activity_date": "22-01-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5059,
+    "email": "rohit.iyer49@example.com",
+    "owner": "Meera",
+    "stage": "Opportunity",
+    "last_activity_date": "22-03-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5060,
+    "email": "rahul.sharma28@example.com",
+    "owner": "Meera",
+    "stage": "SQL",
+    "last_activity_date": "2025-10-16",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5061,
+    "email": "amit.verma34@example.com",
+    "owner": "Rakesh",
+    "stage": "Lost",
+    "last_activity_date": "01-12-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5062,
+    "email": "swetha.sharma5@example.com",
+    "owner": "Sneha",
+    "stage": "New",
+    "last_activity_date": "2025/06/22",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5063,
+    "email": "pooja.singh14@example.com",
+    "owner": "Kunal",
+    "stage": "SQL",
+    "last_activity_date": "10-08-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5064,
+    "email": "rohit.gupta40@example.com",
+    "owner": "Aarav",
+    "stage": "Won",
+    "last_activity_date": "2025/12/22",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5065,
+    "email": "karthik.das24@example.com",
+    "owner": "Meera",
+    "stage": "Won",
+    "last_activity_date": "2025-08-20",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5066,
+    "email": "amit.reddy36@example.com",
+    "owner": "Aarav",
+    "stage": "Opportunity",
+    "last_activity_date": "2026-01-20",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5067,
+    "email": "karthik.mehta4@example.com",
+    "owner": "Kunal",
+    "stage": "SQL",
+    "last_activity_date": "01-07-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5068,
+    "email": "priya.verma21@example.com",
+    "owner": "Kunal",
+    "stage": "MQL",
+    "last_activity_date": "22-06-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5069,
+    "email": "",
+    "owner": "Rakesh",
+    "stage": "Opportunity",
+    "last_activity_date": "16-11-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5070,
+    "email": "vikram.gupta51@example.com",
+    "owner": "Sneha",
+    "stage": "New",
+    "last_activity_date": "08-09-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5071,
+    "email": "rahul.gupta25@example.com",
+    "owner": "Aarav",
+    "stage": "SQL",
+    "last_activity_date": "23-05-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5072,
+    "email": "neha.patel38@example.com",
+    "owner": "Sneha",
+    "stage": "MQL",
+    "last_activity_date": "2025/07/21",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5073,
+    "email": "",
+    "owner": "Meera",
+    "stage": "Lost",
+    "last_activity_date": "2025/04/21",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5074,
+    "email": "swetha.nair19@example.com",
+    "owner": "Sneha",
+    "stage": "New",
+    "last_activity_date": "2025/07/14",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5075,
+    "email": "pooja.singh14@example.com",
+    "owner": "Meera",
+    "stage": "New",
+    "last_activity_date": "07-04-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5076,
+    "email": "priya.singh52@example.com",
+    "owner": "Kunal",
+    "stage": "Lost",
+    "last_activity_date": "07-08-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5077,
+    "email": "swetha.reddy35@example.com",
+    "owner": "Rakesh",
+    "stage": "Opportunity",
+    "last_activity_date": "2025/10/24",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5078,
+    "email": "rahul.gupta25@example.com",
+    "owner": "Meera",
+    "stage": "New",
+    "last_activity_date": "20-05-2025",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5079,
+    "email": "",
+    "owner": "Meera",
+    "stage": "New",
+    "last_activity_date": "2025-05-15",
+    "notes": "Follow-up or qualification update recorded."
+  },
+  {
+    "activity_id": 5080,
+    "email": "rohit.sharma11@example.com",
+    "owner": "Kunal",
+    "stage": "New",
+    "last_activity_date": "05-07-2025",
+    "notes": "Follow-up or qualification update recorded."
+  }
+]

@@ -1,0 +1,61 @@
+lead_id,first_name,last_name,email,phone,company,city,source,created_date
+1,Amit,Reddy,amit.reddy1@example.com,917421675002,Infosys Ltd.,Mumbai,Referral,06-09-2025
+2,Rahul,Gupta,rahul.gupta2@example.com,917854830959,Infosys,Delhi,Website,17-05-2025
+3,Rohit,Das,,918594396131,Wipro,Chennai,Event,10-09-2025
+4,Karthik,Mehta,karthik.mehta4@example.com,917960841120,Infosys Ltd.,Chennai,Referral,14-02-2025
+5,Swetha,Sharma,swetha.sharma5@example.com,918614246806,Tata Consultancy Services,Bengaluru,Website,27-08-2025
+6,Neha,Singh,neha.singh6@example.com,919620178467,Wipro,Delhi,LinkedIn,28-09-2025
+7,Rahul,Singh,rahul.singh7@example.com,919569127888,Tata Consultancy Services,Mumbai,Event,23-06-2025
+8,Neha,Iyer,neha.iyer8@example.com,917195731618,Wipro Ltd,Delhi,Referral,12-05-2025
+9,Ananya,Mehta,ananya.mehta9@example.com,917132879660,Infosys Ltd.,Delhi,Website,02-01-2025
+10,Karthik,Singh,karthik.singh10@example.com,917662996040,Accenture Pvt Ltd,Chennai,Website,02-09-2025
+11,Rohit,Sharma,rohit.sharma11@example.com,918916990992,Wipro,Hyderabad,Website,29-08-2025
+12,Neha,Patel,neha.patel12@example.com,919618457032,Infosys Ltd.,Hyderabad,LinkedIn,19-02-2025
+13,Priya,Sharma,priya.sharma13@example.com,918796207842,TCS,Chennai,LinkedIn,14-01-2025
+14,Pooja,Singh,pooja.singh14@example.com,917817071176,HCL Tech,Chennai,Website,31-12-2025
+15,Ananya,Reddy,ananya.reddy15@example.com,918621273661,Tata Consultancy Services,Mumbai,LinkedIn,31-05-2025
+16,Pooja,Nair,pooja.nair16@example.com,917983053134,Infosys,Chennai,Event,04-09-2025
+17,Rohit,Das,,919330031349,HCL Tech,Bengaluru,Website,14-12-2025
+18,Pooja,Das,pooja.das18@example.com,918704961270,TCS,Chennai,Referral,30-12-2024
+19,Swetha,Nair,swetha.nair19@example.com,917690633081,Infosys Ltd.,Chennai,Event,13-05-2025
+20,Karthik,Gupta,karthik.gupta20@example.com,917692713310,HCL Tech,Bengaluru,Referral,14-07-2025
+21,Priya,Verma,priya.verma21@example.com,919981472128,Tata Consultancy Services,Mumbai,LinkedIn,22-04-2025
+22,Rahul,Nair,rahul.nair22@example.com,919251341808,HCL Tech,Hyderabad,LinkedIn,11-10-2025
+23,Swetha,Iyer,swetha.iyer23@example.com,917913237013,Accenture,Delhi,Website,22-04-2025
+24,Karthik,Das,karthik.das24@example.com,918513204713,Infosys,Mumbai,Website,15-11-2025
+25,Rahul,Gupta,rahul.gupta25@example.com,918265701625,Infosys Ltd.,Mumbai,Referral,21-09-2025
+26,Swetha,Singh,,919082047472,TCS,Bengaluru,Website,09-08-2025
+27,Ananya,Sharma,ananya.sharma27@example.com,919528879800,Accenture,Mumbai,Referral,20-06-2025
+28,Rahul,Sharma,rahul.sharma28@example.com,917345051447,Wipro Ltd,Delhi,Referral,12-11-2025
+29,Pooja,Nair,pooja.nair29@example.com,918012414162,HCL,Mumbai,LinkedIn,13-12-2025
+30,Priya,Mehta,priya.mehta30@example.com,919461871982,TCS,Bengaluru,Referral,23-07-2025
+31,Ananya,Nair,,918354166665,Infosys Ltd.,Hyderabad,Event,15-12-2025
+32,Amit,Das,,919606550716,HCL,Bengaluru,Event,21-07-2025
+33,Vikram,Nair,vikram.nair33@example.com,918659635249,Wipro,Mumbai,Website,15-03-2025
+34,Amit,Verma,amit.verma34@example.com,918884190383,Wipro Ltd,Chennai,Referral,25-01-2026
+35,Swetha,Reddy,swetha.reddy35@example.com,919841064930,Infosys Ltd.,Bengaluru,Event,06-04-2025
+36,Amit,Reddy,amit.reddy36@example.com,917132024413,Infosys Ltd.,Bengaluru,Event,25-04-2025
+37,Swetha,Gupta,,917219108422,Wipro Ltd,Hyderabad,Event,06-09-2025
+38,Neha,Patel,neha.patel38@example.com,917546100637,TCS,Hyderabad,Website,15-05-2025
+39,Vikram,Patel,vikram.patel39@example.com,917859852102,Accenture Pvt Ltd,Mumbai,Referral,29-06-2025
+40,Rohit,Gupta,rohit.gupta40@example.com,918750869056,TCS,Bengaluru,LinkedIn,24-12-2025
+41,Rahul,Reddy,rahul.reddy41@example.com,918598442526,Wipro,Delhi,LinkedIn,19-10-2025
+42,Rohit,Sharma,rohit.sharma42@example.com,918007059073,HCL Tech,Delhi,Referral,18-06-2025
+43,Amit,Patel,,917974777607,Wipro Ltd,Delhi,Referral,29-10-2025
+44,Pooja,Nair,pooja.nair44@example.com,917242202085,Accenture Pvt Ltd,Chennai,LinkedIn,11-08-2025
+45,Neha,Singh,neha.singh45@example.com,917082420408,Infosys,Delhi,Event,22-01-2025
+46,Vikram,Das,vikram.das46@example.com,917928042303,Tata Consultancy Services,Hyderabad,LinkedIn,09-10-2025
+47,Ananya,Nair,ananya.nair47@example.com,918617955770,Wipro Ltd,Mumbai,Referral,06-01-2025
+48,Pooja,Das,pooja.das48@example.com,918626897990,Infosys,Chennai,Referral,22-07-2025
+49,Rohit,Iyer,rohit.iyer49@example.com,918350529809,Infosys Ltd.,Mumbai,Referral,27-10-2025
+50,Rohit,Singh,rohit.singh50@example.com,919103954237,Wipro,Chennai,Event,11-09-2025
+51,Vikram,Gupta,vikram.gupta51@example.com,918209421682,Infosys Ltd.,Bengaluru,Website,17-01-2025
+52,Priya,Singh,priya.singh52@example.com,917202744160,Infosys,Chennai,LinkedIn,10-07-2025
+53,Ananya,Mehta,ananya.mehta53@example.com,918124746681,Infosys Ltd.,Hyderabad,LinkedIn,20-07-2025
+54,Amit,Gupta,,918518778506,Infosys,Hyderabad,LinkedIn,14-08-2025
+55,Vikram,Mehta,vikram.mehta55@example.com,917647097798,Tata Consultancy Services,Delhi,Event,01-11-2025
+56,Karthik,Das,,918446763516,TCS,Bengaluru,Website,29-10-2025
+57,Neha,Verma,neha.verma57@example.com,918719380324,Accenture Pvt Ltd,Mumbai,Event,24-07-2025
+58,Vikram,Mehta,vikram.mehta58@example.com,919888980660,Tata Consultancy Services,Mumbai,LinkedIn,03-11-2025
+59,Neha,Nair,,918796517878,TCS,Delhi,Website,17-05-2025
+60,Rohit,Nair,rohit.nair60@example.com,918470264708,Infosys Ltd.,Delhi,LinkedIn,02-08-2025
