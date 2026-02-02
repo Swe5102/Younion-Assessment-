@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(page_title="Mini Data App Dashboard", layout="wide")
 st.title("Mini Data App UI")
-file_path = r"C:\Users\sweniv\OneDrive\Documents\unified_view.csv"
+file_path = r"GIVE_THE_PATH_OF_THE_OUTPUT_FILE"
 
 df = pd.read_csv(file_path)
 
@@ -55,4 +55,5 @@ col2.metric("Total Touches", int(filtered_df["total_touches"].sum()) if "total_t
 col3.metric("SQL Count", filtered_df[filtered_df["is_sql"] == 1].shape[0] if "is_sql" in filtered_df.columns else 0)
 st.subheader("Unified Leads Table")
 st.dataframe(filtered_df,column_config={"created_date": st.column_config.DateColumn("Created Date",format="DD-MM-YYYY")})
+
 
