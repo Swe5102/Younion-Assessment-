@@ -1,0 +1,61 @@
+﻿unified_id,name,email,phone,company_clean,city,source,created_date,total_touches,first_touch_date,last_touch_date,last_touch_channel,last_campaign_name,current_stage,owner,is_sql
+1,Amit Reddy,amit.reddy1@example.com,9.17E+11,Infosys,Mumbai,Referral,06-09-2025,4,19-05-2025,13-07-2025,WhatsApp,Product Launch,NULL,NULL,0
+2,Rahul Gupta,rahul.gupta2@example.com,9.18E+11,Infosys,Delhi,Website,17-05-2025,3,16-04-2025,16-04-2025,Call,Free Trial Campaign,MQL,Rakesh,0
+3,Rohit Das,NULL,9.19E+11,Wipro,Chennai,Event,10-09-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+4,Karthik Mehta,karthik.mehta4@example.com,9.18E+11,Infosys,Chennai,Referral,14-02-2025,8,17-11-2025,08-12-2025,WhatsApp,Product Launch,SQL,Sneha,1
+5, nair,swetha.sharma5@example.com,9.19E+11,Tata consultancy services,Bengaluru,Website,27-08-2025,2,26-05-2025,26-10-2025,Email,Product Launch,New,Sneha,0
+6,Neha Singh,neha.singh6@example.com,9.20E+11,Wipro,Delhi,LinkedIn,28-09-2025,4,16-11-2025,29-05-2025,WhatsApp,Q1 Lead Nurture,SQL,Meera,1
+7,Rahul Singh,rahul.singh7@example.com,9.20E+11,Tata consultancy services,Mumbai,Event,23-06-2025,2,16-02-2025,24-12-2025,WhatsApp,Free Trial Campaign,New,Sneha,0
+8,Neha Iyer,neha.iyer8@example.com,9.17E+11,Wipro,Delhi,Referral,12-05-2025,2,21-02-2025,31-10-2025,Call,Free Trial Campaign,Lost,Rakesh,1
+9,Ananya Mehta,ananya.mehta9@example.com,9.17E+11,Infosys,Delhi,Website,02-01-2025,0,NULL,NULL,NULL,NULL,Lost,Aarav,1
+10,Karthik Singh,karthik.singh10@example.com,9.18E+11,Accenture,Chennai,Website,02-09-2025,1,10-08-2025,10-08-2025,Call,Festive Offer,NULL,NULL,0
+11,Rohit Sharma,rohit.sharma11@example.com,9.19E+11,Wipro,Hyderabad,Website,29-08-2025,4,07-01-2026,04-10-2025,Webinar,Q1 Lead Nurture,New,Meera,0
+12,Neha Patel,neha.patel12@example.com,9.20E+11,Infosys,Hyderabad,LinkedIn,19-02-2025,3,04-08-2025,24-01-2025,Webinar,Webinar Series,New,Rakesh,0
+13,Priya Sharma,priya.sharma13@example.com,9.19E+11,Tata consultancy services,Chennai,LinkedIn,14-01-2025,3,09-09-2025,26-12-2025,Webinar,Webinar Series,SQL,Aarav,1
+14,Pooja Singh,pooja.singh14@example.com,9.18E+11,Hcl tech,Chennai,Website,31-12-2025,5,29-12-2024,29-12-2024,Email,Q1 Lead Nurture,Won,Rakesh,1
+15,Ananya Reddy,ananya.reddy15@example.com,9.19E+11,Tata consultancy services,Mumbai,LinkedIn,31-05-2025,0,NULL,NULL,NULL,NULL,Won,Rakesh,1
+16,Pooja Nair,pooja.nair16@example.com,9.18E+11,Infosys,Chennai,Event,04-09-2025,1,23-01-2025,23-01-2025,Call,Festive Offer,NULL,NULL,0
+17,Rohit Das,NULL,9.19E+11,Hcl tech,Bengaluru,Website,14-12-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+18,Pooja Das,pooja.das18@example.com,9.19E+11,Tata consultancy services,Chennai,Referral,30-12-2024,4,31-03-2025,29-03-2025,Email,Webinar Series,NULL,NULL,0
+19,Swetha Nair,swetha.nair19@example.com,9.18E+11,Infosys,Chennai,Event,13-05-2025,2,29-01-2026,29-01-2026,Call,Q1 Lead Nurture,New,Sneha,0
+20,Karthik Gupta,karthik.gupta20@example.com,9.18E+11,Hcl tech,Bengaluru,Referral,14-07-2025,0,NULL,NULL,NULL,NULL,Won,Sneha,1
+21,Priya Verma,priya.verma21@example.com,9.20E+11,Tata consultancy services,Mumbai,LinkedIn,22-04-2025,2,13-04-2025,13-04-2025,Email,Q1 Lead Nurture,New,Kunal,0
+22,Rahul Nair,rahul.nair22@example.com,9.19E+11,Hcl tech,Hyderabad,LinkedIn,11-10-2025,2,19-10-2025,04-11-2025,WhatsApp,Free Trial Campaign,NULL,NULL,0
+23,Swetha Iyer,swetha.iyer23@example.com,9.18E+11,Accenture,Delhi,Website,22-04-2025,1,20-08-2025,20-08-2025,WhatsApp,Q1 Lead Nurture,NULL,NULL,0
+24,Karthik Das,karthik.das24@example.com,9.19E+11,Infosys,Mumbai,Website,15-11-2025,2,12-06-2025,30-09-2025,WhatsApp,Webinar Series,Won,Meera,1
+25,Rahul Gupta,rahul.gupta25@example.com,9.18E+11,Infosys,Mumbai,Referral,21-09-2025,9,08-08-2025,25-11-2025,WhatsApp,Product Launch,SQL,Sneha,1
+26,Swetha Singh,NULL,9.19E+11,Tata consultancy services,Bengaluru,Website,09-08-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+27,Ananya Sharma,ananya.sharma27@example.com,9.20E+11,Accenture,Mumbai,Referral,20-06-2025,5,04-11-2025,29-01-2026,WhatsApp,Webinar Series,NULL,NULL,0
+28,Rahul Sharma,rahul.sharma28@example.com,9.17E+11,Wipro,Delhi,Referral,12-11-2025,8,04-05-2025,27-10-2025,WhatsApp,Webinar Series,SQL,Rakesh,1
+29,Pooja Nair,pooja.nair29@example.com,9.18E+11,Hcl tech,Mumbai,LinkedIn,13-12-2025,3,07-10-2025,13-03-2025,WhatsApp,Webinar Series,NULL,NULL,0
+30,Priya Mehta,priya.mehta30@example.com,9.19E+11,Tata consultancy services,Bengaluru,Referral,23-07-2025,5,05-10-2025,30-10-2025,Email,Webinar Series,NULL,NULL,0
+31,Ananya Nair,NULL,9.18E+11,Infosys,Hyderabad,Event,15-12-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+32,Amit Das,NULL,9.20E+11,Hcl tech,Bengaluru,Event,21-07-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+33,Vikram Nair,vikram.nair33@example.com,9.19E+11,Wipro,Mumbai,Website,15-03-2025,2,13-05-2025,06-11-2025,WhatsApp,Q1 Lead Nurture,Lost,Kunal,1
+34,Amit Verma,amit.verma34@example.com,9.19E+11,Wipro,Chennai,Referral,25-01-2026,6,21-09-2025,18-01-2026,Email,Webinar Series,Won,Rakesh,1
+35,Swetha Reddy,swetha.reddy35@example.com,9.20E+11,Infosys,Bengaluru,Event,06-04-2025,4,03-03-2025,28-03-2025,WhatsApp,Webinar Series,Opportunity,Rakesh,1
+36,Amit Reddy,amit.reddy36@example.com,9.17E+11,Infosys,Bengaluru,Event,25-04-2025,2,28-05-2025,28-05-2025,Call,Free Trial Campaign,SQL,Rakesh,1
+37,Swetha Gupta,NULL,9.17E+11,Wipro,Hyderabad,Event,06-09-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+38,Neha Patel,neha.patel38@example.com,9.18E+11,Tata consultancy services,Hyderabad,Website,15-05-2025,3,05-03-2025,05-03-2025,Call,Q1 Lead Nurture,MQL,Sneha,0
+39,Vikram Patel,vikram.patel39@example.com,9.18E+11,Accenture,Mumbai,Referral,29-06-2025,1,22-04-2025,22-04-2025,Call,Q1 Lead Nurture,NULL,NULL,0
+40,Rohit Gupta,rohit.gupta40@example.com,9.19E+11,Tata consultancy services,Bengaluru,LinkedIn,24-12-2025,12,07-04-2025,24-04-2025,Webinar,Product Launch,Won,Sneha,1
+41,Rahul Reddy,rahul.reddy41@example.com,9.19E+11,Wipro,Delhi,LinkedIn,19-10-2025,0,NULL,NULL,NULL,NULL,Won,Meera,1
+42,Rohit Sharma,rohit.sharma42@example.com,9.18E+11,Hcl tech,Delhi,Referral,18-06-2025,0,NULL,NULL,NULL,NULL,New,Meera,0
+43,Amit Patel,NULL,9.18E+11,Wipro,Delhi,Referral,29-10-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+44,Pooja Nair,pooja.nair44@example.com,9.17E+11,Accenture,Chennai,LinkedIn,11-08-2025,2,27-05-2025,06-04-2025,Webinar,Q1 Lead Nurture,SQL,Sneha,1
+45,Neha Singh,neha.singh45@example.com,9.17E+11,Infosys,Delhi,Event,22-01-2025,1,12-01-2026,12-01-2026,WhatsApp,Q1 Lead Nurture,NULL,NULL,0
+46,Vikram Das,vikram.das46@example.com,9.18E+11,Tata consultancy services,Hyderabad,LinkedIn,09-10-2025,3,19-10-2025,06-12-2025,WhatsApp,Q1 Lead Nurture,NULL,NULL,0
+47,Ananya Nair,ananya.nair47@example.com,9.19E+11,Wipro,Mumbai,Referral,06-01-2025,4,01-01-2025,24-10-2025,WhatsApp,Webinar Series,SQL,Rakesh,1
+48,Pooja Das,pooja.das48@example.com,9.19E+11,Infosys,Chennai,Referral,22-07-2025,2,02-10-2025,02-07-2025,WhatsApp,Free Trial Campaign,NULL,NULL,0
+49,Rohit Iyer,rohit.iyer49@example.com,9.18E+11,Infosys,Mumbai,Referral,27-10-2025,0,NULL,NULL,NULL,NULL,Opportunity,Meera,1
+50,Rohit Singh,rohit.singh50@example.com,9.19E+11,Wipro,Chennai,Event,11-09-2025,1,21-05-2025,21-05-2025,Webinar,Product Launch,NULL,NULL,0
+51,Vikram Gupta,vikram.gupta51@example.com,9.18E+11,Infosys,Bengaluru,Website,17-01-2025,8,03-07-2025,12-08-2025,WhatsApp,Free Trial Campaign,New,Sneha,0
+52,Priya Singh,priya.singh52@example.com,9.17E+11,Infosys,Chennai,LinkedIn,10-07-2025,4,02-02-2025,28-09-2025,WhatsApp,Free Trial Campaign,Won,Meera,1
+53,Ananya Mehta,ananya.mehta53@example.com,9.18E+11,Infosys,Hyderabad,LinkedIn,20-07-2025,2,27-12-2025,30-01-2025,WhatsApp,Webinar Series,New,Aarav,0
+54,Amit Gupta,NULL,9.19E+11,Infosys,Hyderabad,LinkedIn,14-08-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+55,Vikram Mehta,vikram.mehta55@example.com,9.18E+11,Tata consultancy services,Delhi,Event,01-11-2025,2,20-01-2025,09-02-2025,Webinar,Q1 Lead Nurture,NULL,NULL,0
+56,Karthik Das,NULL,9.18E+11,Tata consultancy services,Bengaluru,Website,29-10-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+57,Neha Verma,neha.verma57@example.com,9.19E+11,Accenture,Mumbai,Event,24-07-2025,0,NULL,NULL,NULL,NULL,Won,Aarav,1
+58,Vikram Mehta,vikram.mehta58@example.com,9.20E+11,Tata consultancy services,Mumbai,LinkedIn,03-11-2025,2,17-09-2025,08-09-2025,WhatsApp,Product Launch,NULL,NULL,0
+59,Neha Nair,NULL,9.19E+11,Tata consultancy services,Delhi,Website,17-05-2025,0,NULL,NULL,NULL,NULL,NULL,NULL,0
+60,Rohit Nair,rohit.nair60@example.com,9.18E+11,Infosys,Delhi,LinkedIn,02-08-2025,1,14-09-2025,14-09-2025,Call,Product Launch,New,Kunal,0
